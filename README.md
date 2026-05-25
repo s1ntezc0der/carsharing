@@ -20,7 +20,7 @@ Book your dream car in 3 simple steps.
 
 ```bash
 # Clone the repository
-git clone https://github.com/s1ntezc0der/carsharing-go.git
+git clone https://github.com/s1ntezc0der/carsharing.git
 cd carsharing-go
 ``` 
 
